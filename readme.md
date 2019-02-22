@@ -37,7 +37,7 @@
 # Paper Sketchs:
 
 ### Landing Page:
-![](../img/sketch-landing.jpg)
+![](img/sketch-landing.jpg)
 
 ### Contact Page:
 ![](img/sketch-contact.png)
