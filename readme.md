@@ -54,7 +54,6 @@
 
 ### Landing Page:
 ![](img/landing-pg-desktop.png)
-![](img/)
 
 ### Contact Page:
 ![](img/contact-pg-desktop.png)
