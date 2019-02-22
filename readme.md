@@ -51,10 +51,10 @@
 # Wireframe Sketch:
 
 ### Landing Page:
-![](img/langing-pg-desktop.png)
+![](img/landing-pg-desktop.png)
 
 ### Contact Page:
-![](img/conatct-pg-desktop.png)
+![](img/conatact-pg-desktop.png)
 
 ### Amenities:
 ![]()
