@@ -7,9 +7,9 @@
 # Description
 * _A site designed for a diverse co-working environment_
 
-## User Stories:
+# User Stories:
 
-# User: _Bill_
+# _Bill_
 
 ### Needs:
 * _An easy way to find details about subscription cost as well as a way to easily manage said subscription_
@@ -20,7 +20,7 @@
 ### How we can serve:
 * _Create a simple direct subscription setup that allows you to easily subscribe and manage such subscription_
 
-# User: _Jane_
+# _Jane_
 
 ### Needs:
 * _A straightforward layout that makes it easy to find info about the site_
@@ -30,3 +30,6 @@
 
 ### How we can serve:
 * _Use short descriptions that make things very clear, only use pages we need, search bar to easily see all pages to look at_
+
+# Research:
+* _I had no idea what a co-working company was so I had to figure that out. Turns out it's just a place for people to get work done instead of at home with people that want the same kind of work environment as them_
