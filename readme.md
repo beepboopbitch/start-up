@@ -57,10 +57,10 @@
 ![](img/contact-pg-desktop.png)
 
 ### Amenities:
-![]()
+![](img/amenities-pg-desktop)
 
 ### Membership:
-![]()
+![](img/member-pg-desktop)
 
 ## Setup
 
