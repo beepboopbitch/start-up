@@ -58,15 +58,15 @@
 
 ### Contact Page:
 ![](img/contact-pg-desktop.png)
-![](img/)
+![](img/contact-pg-tablet.png)
 
 ### Amenities:
 ![](img/amenities-pg-desktop.png)
-![](img/)
+![](img/amenities-pg-tablet.png)
 
 ### Membership:
 ![](img/member-pg-desktop.png)
-![](img/)
+![](img/member-pg-tablet.png)
 
 ## Setup
 
