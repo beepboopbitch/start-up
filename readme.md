@@ -48,19 +48,25 @@
 ### Membership:
 ![](img/sketch-member.png)
 
+
+
 # Wireframe Sketchs:
 
 ### Landing Page:
 ![](img/landing-pg-desktop.png)
+![](img/)
 
 ### Contact Page:
 ![](img/contact-pg-desktop.png)
+![](img/)
 
 ### Amenities:
 ![](img/amenities-pg-desktop.png)
+![](img/)
 
 ### Membership:
 ![](img/member-pg-desktop.png)
+![](img/)
 
 ## Setup
 
