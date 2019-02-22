@@ -48,7 +48,7 @@
 ### Membership:
 ![](img/sketch-member.png)
 
-# Wireframe Sketch:
+# Wireframe Sketchs:
 
 ### Landing Page:
 ![](img/landing-pg-desktop.png)
