@@ -73,6 +73,7 @@ https://github.com/nayomi-morita/start-up.git
 * _HTML_
 * _CSS_
 * _SASS_
+* _Sketch_
 
 ### license
 
