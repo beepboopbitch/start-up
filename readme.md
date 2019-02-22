@@ -37,16 +37,16 @@
 # Paper Sketchs:
 
 ### Landing Page:
-![img/sketch-landing.png]()
+![](../img/sketch-landing.jpg)
 
 ### Contact Page:
-![img/sketch-contact.png]()
+![](img/sketch-contact.png)
 
 ### Amenities:
-![img/sketch-amenities.png]()
+![](img/sketch-amenities.png)
 
 ### Membership:
-![img/sketch-member.png]()
+![](img/sketch-member.png)
 
 # Sketch Prototype:
 
