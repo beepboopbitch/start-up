@@ -54,7 +54,7 @@
 ![](img/landing-pg-desktop.png)
 
 ### Contact Page:
-![](img/conatact-pg-desktop.png)
+![](img/contact-pg-desktop.png)
 
 ### Amenities:
 ![]()
