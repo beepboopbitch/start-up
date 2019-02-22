@@ -34,16 +34,30 @@
 # Research:
 * _I had no idea what a co-working company was so I had to figure that out. Turns out it's just a place for people to get work done instead of at home with people that want the same kind of work environment as them_
 
-# Sketchs:
+# Paper Sketchs:
 
-# Landing Page:
+### Landing Page:
 ![]()
 
-# Contact Page:
+### Contact Page:
 ![]()
 
-# Amenities:
+### Amenities:
 ![]()
 
-# Subscription
+### Membership:
+![]()
+
+# Sketch Prototype:
+
+### Landing Page:
+![]()
+
+### Contact Page:
+![]()
+
+### Amenities:
+![]()
+
+### Membership:
 ![]()
