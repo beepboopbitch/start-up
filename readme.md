@@ -61,3 +61,21 @@
 
 ### Membership:
 ![]()
+
+## Setup
+
+* _Clone this repository_
+https://github.com/nayomi-morita/start-up.git
+* _Open index.html in browser_
+* _Use chosen code editor to make changes (I used atom)._
+
+## Technologies used
+* _HTML_
+* _CSS_
+* _SASS_
+
+### license
+
+Copyright (c) 2019 **Nayomi Morita**
+
+This software is licensed under the GPL license.
