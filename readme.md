@@ -37,38 +37,38 @@
 # Paper Sketchs:
 
 ### Landing Page:
-![](img/sketch-landing.jpg)
+![](assets/img/sketch-landing.jpg)
 
 ### Contact Page:
-![](img/sketch-contact.png)
+![](assets/img/sketch-contact.png)
 
 ### Amenities:
-![](img/sketch-amenities.png)
+![](assets/img/sketch-amenities.png)
 
 ### Membership:
-![](img/sketch-member.png)
+![](assets/img/sketch-member.png)
 
 
 
 # Wireframe Sketchs:
 
 ### Landing Page:
-![](img/landing-pg-desktop.png)
+![](assets/img/landing-pg-desktop.png)
 
 ### Contact Page:
-![](img/contact-pg-desktop.png)
-![](img/contact-pg-tablet.png)
-![](img/contact-pg-phone.png)
+![](assets/img/contact-pg-desktop.png)
+![](assets/img/contact-pg-tablet.png)
+![](assets/img/contact-pg-phone.png)
 
 ### Amenities:
-![](img/amenities-pg-desktop.png)
-![](img/amenities-pg-tablet.png)
-![](img/amenities-pg-phone.png)
+![](assets/img/amenities-pg-desktop.png)
+![](assets/img/amenities-pg-tablet.png)
+![](assets/img/amenities-pg-phone.png)
 
 ### Membership:
-![](img/member-pg-desktop.png)
-![](img/member-pg-tablet.png)
-![](img/member-pg-phone.png)
+![](assets/img/member-pg-desktop.png)
+![](assets/img/member-pg-tablet.png)
+![](assets/img/member-pg-phone.png)
 
 ## Setup
 
