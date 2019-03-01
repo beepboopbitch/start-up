@@ -10,12 +10,30 @@
   }
 }
 
+@mixin mQLG($arg){
+  @media screen and (min-width: $arg){
+    @content;
+  }
+}
+
 header {
   .top {
     display: flex;
     justify-content: space-between;
     background-color: #efefef;
     height: 100px;
+    .pagesfull {
+      display: flex;
+      flex-direction: row;
+      margin: 30px 20px 0 20px;
+      font-size: 30px;
+      a {
+        margin-left: 1.2rem;
+      }
+      @include mQ(768px) {
+        display: none;
+      }
+    }
     @include mQ(650px) {
       height: 15vw;
     }
@@ -27,20 +45,29 @@ header {
         margin: 3vw 1vw 0 1vw;
       }
     }
+    #menu {
+      @include mQLG(768px) {
+        display: none;
+      }
+    }
   }
 }
 
 .pages {
+
   display: flex;
   flex-direction: row;
   font-size: 40px;
   justify-content: space-between;
   background-color: #afafaf;
   height: 100px;
+  @include mQLG(768px) {
+    display: none;
+  }
   @include mQ(650px) {
     height: 15vw;
   }
-  p {
+  a {
     margin: 25px 15px 0 15px;
     @include mQ(650px) {
       margin-top: 4vw;
