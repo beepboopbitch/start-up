@@ -207,15 +207,26 @@ header {
   h1 {
     font-size: 8vw;
     margin: 5vw 5vw 0 5vw;
+    @include mQLG(768px) {
+      font-size: 4vw;
+    }
   }
   .amen-p {
     font-size: 5vw;
     margin: 5vw 5vw 5vw 5vw;
+    @include mQLG(768px) {
+      font-size: 3.1vw;
+    }
   }
   img {
     display: block;
     margin-left: -50%;
     margin-right: auto;
     height: 75vw;
+    @include mQLG(768px) {
+      margin-left: 5vw;
+      margin-right: 5vw;
+      height: 32vw;
+    }
   }
 }
