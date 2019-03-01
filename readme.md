@@ -74,8 +74,10 @@
 
 * _Clone this repository_
 https://github.com/nayomi-morita/start-up.git
-* _Open index.html in browser_
 * _Use chosen code editor to make changes (I used atom)._
+* _Install node/homebrew on device_
+* _Run "npm install" in terminal in start-up project_
+* _Run "npm run start" to open index.html in browser_
 
 ## Technologies used
 * _HTML_
