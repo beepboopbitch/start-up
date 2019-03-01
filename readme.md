@@ -84,6 +84,8 @@ https://github.com/nayomi-morita/start-up.git
 * _CSS_
 * _SASS_
 * _Sketch_
+* _JavaScript_
+* _JQuery_
 
 ### license
 

@@ -7,6 +7,4 @@ $(document).ready(function() {
     $(".bottom").toggle();
     display: block;
   });
-
-
 });
