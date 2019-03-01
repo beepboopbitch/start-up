@@ -1,9 +1,25 @@
+
 * {
   margin: 0;
   padding: 0;
 }
 
-p {
-  font-size: 200px;
-  color: green;
+header {
+  .top {
+    display: flex;
+    justify-content: space-between;
+    background-color: #efefef;
+    height: 100px;
+    img {
+      height: 80px;
+      margin: 15px 10px 0 10px;
+      .menu:hover {
+        background-color: red;
+      }
+    }
+  }
+  .bottom {
+    background-color: #afafaf;
+    height: 100px;
+  }
 }
