@@ -4,22 +4,48 @@
   padding: 0;
 }
 
+@mixin mQ($arg){
+  @media screen and (max-width: $arg){
+    @content;
+  }
+}
+
 header {
   .top {
     display: flex;
     justify-content: space-between;
     background-color: #efefef;
     height: 100px;
+    @include mQ(650px) {
+      height: 15vw;
+    }
     img {
       height: 80px;
       margin: 15px 10px 0 10px;
-      .menu:hover {
-        background-color: red;
+      @include mQ(650px) {
+        height: 10vw;
+        margin: 3vw 1vw 0 1vw;
       }
     }
   }
-  .bottom {
-    background-color: #afafaf;
-    height: 100px;
+}
+
+.pages {
+  display: flex;
+  flex-direction: row;
+  font-size: 40px;
+  justify-content: space-between;
+  background-color: #afafaf;
+  height: 100px;
+  @include mQ(650px) {
+    height: 15vw;
+  }
+  p {
+    margin: 25px 15px 0 15px;
+    @include mQ(650px) {
+      margin-top: 4vw;
+      font-size: 5vw;
+      margin: 4.5vw 2vw 0 2vw;
+    }
   }
 }
