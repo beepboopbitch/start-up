@@ -202,7 +202,7 @@ header {
   }
 }
 
-//member page
+//amenities page
 .amen-body {
   h1 {
     font-size: 8vw;
@@ -228,5 +228,18 @@ header {
       margin-right: 5vw;
       height: 32vw;
     }
+  }
+}
+
+//member page
+.member-pg {
+  p {
+    font-size: 5vw;
+    text-align: center;
+    margin: 5vw 0 5vw 0;
+  }
+  img {
+    width: 300vw;
+    margin-left: -50%;
   }
 }
