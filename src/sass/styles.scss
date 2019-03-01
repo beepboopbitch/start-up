@@ -33,6 +33,7 @@ header {
         margin-left: 1.2rem;
         text-decoration: none;
         color: black;
+        text-shadow: 2px 2px lightgray;
       }
       @include mQ(768px) {
         display: none;
@@ -74,6 +75,7 @@ header {
     margin: 25px 15px 0 15px;
     color: black;
     text-decoration: none;
+    text-shadow: 2px 2px gray;
     @include mQ(650px) {
       margin-top: 4vw;
       font-size: 5vw;
@@ -136,6 +138,7 @@ header {
       height: 30vw;
     }
     h1 {
+      text-shadow: 2px 2px lightgray;
       font-size: 10vw;
       margin: 5vw 0 5vw 5vw;
       @include mQLG(768px) {
@@ -146,6 +149,7 @@ header {
     p {
       font-size: 8vw;
       margin: 0 0 5vw 5vw;
+      text-shadow: 2px 2px lightgray;
       @include mQLG(768px) {
         font-size: 3vw;
         margin: 0;
@@ -177,6 +181,7 @@ header {
     h1 {
       font-size: 6vw;
       margin: 5vw 0 0 5vw;
+      text-shadow: 2px 2px lightgray;
       @include mQLG(768px) {
         margin: 0;
         font-size: 3vw;
@@ -185,6 +190,7 @@ header {
     p {
       font-size: 5vw;
       margin: 2vw 0 0 5vw;
+      text-shadow: 2px 2px lightgray;
       @include mQLG(768px) {
         margin: 0;
         font-size: 3vw;
@@ -207,6 +213,7 @@ header {
   h1 {
     font-size: 8vw;
     margin: 5vw 5vw 0 5vw;
+    text-shadow: 2px 2px lightgray;
     @include mQLG(768px) {
       font-size: 4vw;
     }
@@ -214,6 +221,7 @@ header {
   .amen-p {
     font-size: 5vw;
     margin: 5vw 5vw 5vw 5vw;
+    text-shadow: 2px 2px lightgray;
     @include mQLG(768px) {
       font-size: 3.1vw;
     }
@@ -234,6 +242,7 @@ header {
 //member page
 .member-pg {
   h1 {
+    text-shadow: 2px 2px lightgray;
     font-size: 4.5vw;
     text-align: center;
     margin: 5vw 0 5vw 0;
