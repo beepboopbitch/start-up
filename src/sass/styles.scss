@@ -1,22 +1,18 @@
-
 * {
   margin: 0;
   padding: 0;
   // border: 2px solid red;
 }
-
 @mixin mQ($arg){
   @media screen and (max-width: $arg){
     @content;
   }
 }
-
 @mixin mQLG($arg){
   @media screen and (min-width: $arg){
     @content;
   }
 }
-
 //main page
 header {
   .top {
@@ -34,6 +30,9 @@ header {
         text-decoration: none;
         color: black;
         text-shadow: 2px 2px lightgray;
+        &:hover {
+          color: red;
+        }
       }
       @include mQ(768px) {
         display: none;
@@ -54,10 +53,12 @@ header {
       @include mQLG(768px) {
         display: none;
       }
+      &:hover {
+        background-color: red;
+      }
     }
   }
 }
-
 .pages {
   display: flex;
   flex-direction: row;
@@ -76,6 +77,9 @@ header {
     color: black;
     text-decoration: none;
     text-shadow: 2px 2px gray;
+    &:hover {
+      color: red;
+    }
     @include mQ(650px) {
       margin-top: 4vw;
       font-size: 5vw;
@@ -83,7 +87,6 @@ header {
     }
   }
 }
-
 .grid-container {
   display: grid;
   grid-template-columns: auto;
@@ -160,7 +163,6 @@ header {
     width: 100%;
   }
 }
-
 //contact page
 .grid-box {
   display: grid;
@@ -207,7 +209,6 @@ header {
     }
   }
 }
-
 //amenities page
 .amen-body {
   h1 {
@@ -238,7 +239,6 @@ header {
     }
   }
 }
-
 //member page
 .member-pg {
   h1 {
